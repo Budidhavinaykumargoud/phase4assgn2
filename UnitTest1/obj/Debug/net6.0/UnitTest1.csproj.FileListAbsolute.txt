@@ -1,0 +1,12 @@
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day2\Assignment\UnitTestProject\UnitTest1\bin\Debug\net6.0\UnitTest1.deps.json
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day2\Assignment\UnitTestProject\UnitTest1\bin\Debug\net6.0\UnitTest1.dll
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day2\Assignment\UnitTestProject\UnitTest1\bin\Debug\net6.0\UnitTest1.pdb
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day2\Assignment\UnitTestProject\UnitTest1\obj\Debug\net6.0\UnitTest1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day2\Assignment\UnitTestProject\UnitTest1\obj\Debug\net6.0\UnitTest1.AssemblyInfoInputs.cache
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day2\Assignment\UnitTestProject\UnitTest1\obj\Debug\net6.0\UnitTest1.AssemblyInfo.cs
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day2\Assignment\UnitTestProject\UnitTest1\obj\Debug\net6.0\UnitTest1.csproj.CoreCompileInputs.cache
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day2\Assignment\UnitTestProject\UnitTest1\obj\Debug\net6.0\UnitTest1.sourcelink.json
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day2\Assignment\UnitTestProject\UnitTest1\obj\Debug\net6.0\UnitTest1.dll
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day2\Assignment\UnitTestProject\UnitTest1\obj\Debug\net6.0\refint\UnitTest1.dll
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day2\Assignment\UnitTestProject\UnitTest1\obj\Debug\net6.0\UnitTest1.pdb
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day2\Assignment\UnitTestProject\UnitTest1\obj\Debug\net6.0\ref\UnitTest1.dll

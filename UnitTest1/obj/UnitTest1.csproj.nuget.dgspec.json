@@ -1,0 +1,82 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Vinay\\Desktop\\Simplilearn\\Phase4\\Day2\\Assignment\\UnitTestProject\\UnitTest1\\UnitTest1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Vinay\\Desktop\\Simplilearn\\Phase4\\Day2\\Assignment\\UnitTestProject\\UnitTest1\\UnitTest1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vinay\\Desktop\\Simplilearn\\Phase4\\Day2\\Assignment\\UnitTestProject\\UnitTest1\\UnitTest1.csproj",
+        "projectName": "UnitTest1",
+        "projectPath": "C:\\Users\\Vinay\\Desktop\\Simplilearn\\Phase4\\Day2\\Assignment\\UnitTestProject\\UnitTest1\\UnitTest1.csproj",
+        "packagesPath": "C:\\Users\\Vinay\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vinay\\Desktop\\Simplilearn\\Phase4\\Day2\\Assignment\\UnitTestProject\\UnitTest1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vinay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Vinay\\Desktop\\Simplilearn\\Phase4\\Day2\\Assignment\\UnitTestProject\\UnitTestProject\\UnitTestProject.csproj": {
+                "projectPath": "C:\\Users\\Vinay\\Desktop\\Simplilearn\\Phase4\\Day2\\Assignment\\UnitTestProject\\UnitTestProject\\UnitTestProject.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Vinay\\Desktop\\Simplilearn\\Phase4\\Day2\\Assignment\\UnitTestProject\\UnitTestProject\\UnitTestProject.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vinay\\Desktop\\Simplilearn\\Phase4\\Day2\\Assignment\\UnitTestProject\\UnitTestProject\\UnitTestProject.csproj",
+        "projectName": "UnitTestProject",
+        "projectPath": "C:\\Users\\Vinay\\Desktop\\Simplilearn\\Phase4\\Day2\\Assignment\\UnitTestProject\\UnitTestProject\\UnitTestProject.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}
